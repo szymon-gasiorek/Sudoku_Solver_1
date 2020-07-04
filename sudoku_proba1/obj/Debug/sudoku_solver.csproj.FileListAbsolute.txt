@@ -1,0 +1,7 @@
+C:\Users\Dragan\source\repos\sudoku_proba1\sudoku_proba1\bin\Debug\sudoku_proba1.exe.config
+C:\Users\Dragan\source\repos\sudoku_proba1\sudoku_proba1\bin\Debug\sudoku_proba1.exe
+C:\Users\Dragan\source\repos\sudoku_proba1\sudoku_proba1\bin\Debug\sudoku_proba1.pdb
+C:\Users\Dragan\source\repos\sudoku_proba1\sudoku_proba1\obj\Debug\sudoku_solver.csprojAssemblyReference.cache
+C:\Users\Dragan\source\repos\sudoku_proba1\sudoku_proba1\obj\Debug\sudoku_solver.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\source\repos\sudoku_proba1\sudoku_proba1\obj\Debug\sudoku_proba1.exe
+C:\Users\Dragan\source\repos\sudoku_proba1\sudoku_proba1\obj\Debug\sudoku_proba1.pdb
