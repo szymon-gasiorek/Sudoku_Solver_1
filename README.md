@@ -1,0 +1,1 @@
+# Solves provided sudoku puzzles
